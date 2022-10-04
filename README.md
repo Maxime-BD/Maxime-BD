@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=Maxime-BD&label=web%20view&icon=3&pretty=true)](https://visitcount.itsvg.in)
 # 💫 About Me:
 currently working on a bot maker <br>i try to learn java <br>and optimised my code and my systems
 
